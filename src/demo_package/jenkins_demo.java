@@ -9,7 +9,7 @@ public class jenkins_demo {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\TANMAY.AHUJA-b\\Desktop\\MDSTestData\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","F:\\chromedriver.exe");
 	//	WebDriver driver = new WebDriver();
 		WebDriver driver = new ChromeDriver();
 		
